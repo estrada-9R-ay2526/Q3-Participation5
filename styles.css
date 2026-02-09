@@ -1,0 +1,14 @@
+body{
+    background-image: url("https://hdwallpaperim.com/wp-content/uploads/2017/08/27/139861-Red_Bull-748x561.jpg");
+    width: auto;
+    height: auto;
+}
+
+.container{
+    width: 60%;
+    border: 4px solid darkblue;
+    background-color: lightblue;
+    padding: 15px;
+    margin: 0px auto;
+    text-align: center;
+}
